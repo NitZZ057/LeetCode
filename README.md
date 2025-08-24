@@ -7,8 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/NitZZ057/LeetCode/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/NitZZ057/LeetCode/tree/master/0046-permutations) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/NitZZ057/LeetCode/tree/master/0031-next-permutation) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/NitZZ057/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
