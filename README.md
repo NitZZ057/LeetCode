@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/NitZZ057/LeetCode/tree/master/0162-find-peak-element) |
+## Math
+|  |
+| ------- |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/NitZZ057/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 <!---LeetCode Topics End-->
