@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/NitZZ057/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/NitZZ057/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/NitZZ057/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/NitZZ057/LeetCode/tree/master/0046-permutations) |
 | [0162-find-peak-element](https://github.com/NitZZ057/LeetCode/tree/master/0162-find-peak-element) |
 | [0498-diagonal-traverse](https://github.com/NitZZ057/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/NitZZ057/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/NitZZ057/LeetCode/tree/master/0046-permutations) |
 ## Dynamic Programming
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/NitZZ057/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/NitZZ057/LeetCode/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/NitZZ057/LeetCode/tree/master/0498-diagonal-traverse) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/NitZZ057/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NitZZ057/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -63,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/NitZZ057/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/NitZZ057/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
