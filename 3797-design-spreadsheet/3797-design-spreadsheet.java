@@ -1,33 +1,27 @@
 class Spreadsheet {
-    private int[][] sheet;
-
+    HashMap<Character,Integer> map = new HashMap<>();
+    int[][] sheet;
     public Spreadsheet(int rows) {
-        sheet = new int[rows][26]; // rows x 26 (A-Z)
-    }
+        sheet = new int[rows+1][27];
 
+        for(int i = 1; i < 27; i++){
+            map.put((char)('A' + i - 1),i);
+        }
+    }
+    
     public void setCell(String cell, int value) {
-        int col = cell.charAt(0) - 'A';
-        int row = Integer.parseInt(cell.substring(1)) - 1;
+        int col = map.get(cell.charAt(0));
+        int row = Integer.parseInt(cell.substring(1));
         sheet[row][col] = value;
     }
-
+    
     public void resetCell(String cell) {
-        int col = cell.charAt(0) - 'A';
-        int row = Integer.parseInt(cell.substring(1)) - 1;
+        int col = map.get(cell.charAt(0));
+        int row = Integer.parseInt(cell.substring(1));
         sheet[row][col] = 0;
     }
-
-    private int solve(String s) {
-        if (Character.isDigit(s.charAt(0))) {
-            return Integer.parseInt(s);
-        }
-        int col = s.charAt(0) - 'A';
-        int row = Integer.parseInt(s.substring(1)) - 1;
-        return sheet[row][col];
-    }
-
+    
     public int getValue(String formula) {
-        // Example: "=A1+B2"
         String s = formula.substring(1); // remove '='
         int plusIdx = s.indexOf('+');
 
@@ -36,4 +30,21 @@ class Spreadsheet {
 
         return solve(left) + solve(right);
     }
+
+    private int solve(String s) {
+        if (Character.isDigit(s.charAt(0))) {
+            return Integer.parseInt(s);
+        }
+        int col = s.charAt(0) - 'A';
+        int row = Integer.parseInt(s.substring(1));
+        return sheet[row][col+1];
+    }
 }
+
+/**
+ * Your Spreadsheet object will be instantiated and called as such:
+ * Spreadsheet obj = new Spreadsheet(rows);
+ * obj.setCell(cell,value);
+ * obj.resetCell(cell);
+ * int param_3 = obj.getValue(formula);
+ */
