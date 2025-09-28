@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/NitZZ057/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/NitZZ057/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/NitZZ057/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/NitZZ057/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NitZZ057/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NitZZ057/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NitZZ057/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/NitZZ057/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/NitZZ057/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/NitZZ057/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/NitZZ057/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NitZZ057/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/NitZZ057/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/NitZZ057/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/NitZZ057/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NitZZ057/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/NitZZ057/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/NitZZ057/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/NitZZ057/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/NitZZ057/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NitZZ057/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/NitZZ057/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
