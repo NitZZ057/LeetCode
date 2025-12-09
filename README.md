@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NitZZ057/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NitZZ057/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/NitZZ057/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3583-count-special-triplets](https://github.com/NitZZ057/LeetCode/tree/master/3583-count-special-triplets) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/NitZZ057/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/NitZZ057/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NitZZ057/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/NitZZ057/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NitZZ057/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/NitZZ057/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3583-count-special-triplets](https://github.com/NitZZ057/LeetCode/tree/master/3583-count-special-triplets) |
 | [3678-design-task-manager](https://github.com/NitZZ057/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/NitZZ057/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/NitZZ057/LeetCode/tree/master/3827-implement-router) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NitZZ057/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/NitZZ057/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3583-count-special-triplets](https://github.com/NitZZ057/LeetCode/tree/master/3583-count-special-triplets) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/NitZZ057/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
