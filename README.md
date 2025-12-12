@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/NitZZ057/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/NitZZ057/LeetCode/tree/master/0046-permutations) |
 | [0162-find-peak-element](https://github.com/NitZZ057/LeetCode/tree/master/0162-find-peak-element) |
+| [0219-contains-duplicate-ii](https://github.com/NitZZ057/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/NitZZ057/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0407-trapping-rain-water-ii](https://github.com/NitZZ057/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/NitZZ057/LeetCode/tree/master/0414-third-maximum-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/NitZZ057/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NitZZ057/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/NitZZ057/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/NitZZ057/LeetCode/tree/master/0037-sudoku-solver) |
 | [0166-fraction-to-recurring-decimal](https://github.com/NitZZ057/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0219-contains-duplicate-ii](https://github.com/NitZZ057/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NitZZ057/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1612-avoid-flood-in-the-city](https://github.com/NitZZ057/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NitZZ057/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
