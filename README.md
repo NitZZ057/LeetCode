@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/NitZZ057/LeetCode/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/NitZZ057/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/NitZZ057/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/NitZZ057/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/NitZZ057/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/NitZZ057/LeetCode/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NitZZ057/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/NitZZ057/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/NitZZ057/LeetCode/tree/master/0031-next-permutation) |
+| [0349-intersection-of-two-arrays](https://github.com/NitZZ057/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/NitZZ057/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NitZZ057/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/NitZZ057/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/NitZZ057/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/NitZZ057/LeetCode/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/NitZZ057/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/NitZZ057/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/NitZZ057/LeetCode/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/NitZZ057/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/NitZZ057/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/NitZZ057/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/NitZZ057/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/NitZZ057/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/NitZZ057/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/NitZZ057/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/NitZZ057/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/NitZZ057/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NitZZ057/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1612-avoid-flood-in-the-city](https://github.com/NitZZ057/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
