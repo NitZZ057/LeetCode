@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/NitZZ057/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/NitZZ057/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/NitZZ057/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NitZZ057/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/NitZZ057/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/NitZZ057/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/NitZZ057/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/NitZZ057/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/NitZZ057/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NitZZ057/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1612-avoid-flood-in-the-city](https://github.com/NitZZ057/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/NitZZ057/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/NitZZ057/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/NitZZ057/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NitZZ057/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2211-count-collisions-on-a-road](https://github.com/NitZZ057/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2429-design-a-food-rating-system](https://github.com/NitZZ057/LeetCode/tree/master/2429-design-a-food-rating-system) |
