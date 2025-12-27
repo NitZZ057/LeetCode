@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/NitZZ057/LeetCode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/NitZZ057/LeetCode/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/NitZZ057/LeetCode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/NitZZ057/LeetCode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/NitZZ057/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/NitZZ057/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/NitZZ057/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/NitZZ057/LeetCode/tree/master/0198-house-robber) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/NitZZ057/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NitZZ057/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/NitZZ057/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
