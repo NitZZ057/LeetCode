@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NitZZ057/LeetCode/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/NitZZ057/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/NitZZ057/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/NitZZ057/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/NitZZ057/LeetCode/tree/master/0037-sudoku-solver) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NitZZ057/LeetCode/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/NitZZ057/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/NitZZ057/LeetCode/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/NitZZ057/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/NitZZ057/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/NitZZ057/LeetCode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/NitZZ057/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/NitZZ057/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/NitZZ057/LeetCode/tree/master/0414-third-maximum-number) |
