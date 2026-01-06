@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/NitZZ057/LeetCode/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/NitZZ057/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/NitZZ057/LeetCode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/NitZZ057/LeetCode/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/NitZZ057/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/NitZZ057/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/NitZZ057/LeetCode/tree/master/0198-house-robber) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/NitZZ057/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/NitZZ057/LeetCode/tree/master/0198-house-robber) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/NitZZ057/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NitZZ057/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
