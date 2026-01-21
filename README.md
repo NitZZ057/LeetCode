@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/NitZZ057/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/NitZZ057/LeetCode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/NitZZ057/LeetCode/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NitZZ057/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NitZZ057/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/NitZZ057/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NitZZ057/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/NitZZ057/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/NitZZ057/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NitZZ057/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/NitZZ057/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NitZZ057/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NitZZ057/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
