@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/NitZZ057/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NitZZ057/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/NitZZ057/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NitZZ057/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/NitZZ057/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NitZZ057/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/NitZZ057/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/NitZZ057/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NitZZ057/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/NitZZ057/LeetCode/tree/master/1652-defuse-the-bomb) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NitZZ057/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/NitZZ057/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 ## Matrix
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/NitZZ057/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NitZZ057/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/NitZZ057/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NitZZ057/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/NitZZ057/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NitZZ057/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/NitZZ057/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
