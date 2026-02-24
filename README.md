@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/NitZZ057/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/NitZZ057/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/NitZZ057/LeetCode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/NitZZ057/LeetCode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/NitZZ057/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/NitZZ057/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/NitZZ057/LeetCode/tree/master/0075-sort-colors) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/NitZZ057/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/NitZZ057/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/NitZZ057/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/NitZZ057/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/NitZZ057/LeetCode/tree/master/0242-valid-anagram) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NitZZ057/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/NitZZ057/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/NitZZ057/LeetCode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/NitZZ057/LeetCode/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/NitZZ057/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/NitZZ057/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/NitZZ057/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NitZZ057/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/NitZZ057/LeetCode/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/NitZZ057/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/NitZZ057/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/NitZZ057/LeetCode/tree/master/0242-valid-anagram) |
