@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NitZZ057/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/NitZZ057/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/NitZZ057/LeetCode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/NitZZ057/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/NitZZ057/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/NitZZ057/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/NitZZ057/LeetCode/tree/master/0198-house-robber) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/NitZZ057/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/NitZZ057/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/NitZZ057/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/NitZZ057/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/NitZZ057/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/NitZZ057/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/NitZZ057/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -388,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NitZZ057/LeetCode/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NitZZ057/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
