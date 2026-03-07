@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NitZZ057/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/NitZZ057/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/NitZZ057/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/NitZZ057/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/NitZZ057/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NitZZ057/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NitZZ057/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NitZZ057/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/NitZZ057/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/NitZZ057/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/NitZZ057/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3827-implement-router](https://github.com/NitZZ057/LeetCode/tree/master/3827-implement-router) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NitZZ057/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/NitZZ057/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NitZZ057/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/NitZZ057/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/NitZZ057/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NitZZ057/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NitZZ057/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NitZZ057/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/NitZZ057/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/NitZZ057/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NitZZ057/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/NitZZ057/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
