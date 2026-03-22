@@ -1,28 +1,49 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
+        int[] pf = new int[26];
+        int[] sf = new int[26];
+
         List<Integer> ans = new ArrayList<>();
 
-        int n = s.length();
-        int k = p.length();
+        int need = 0;
+        int have = 0;
+        int start = 0;
+        int end = 0;
 
-        if(n < k) return ans;
-
-        int[] pat = new int[26];
-        int[] str = new int[26];
-
-        for(int i = 0; i < k; i++){
-            str[s.charAt(i)-'a']++;
-            pat[p.charAt(i)-'a']++;
+        for(int i = 0; i < p.length(); i++){
+            if(pf[p.charAt(i)-'a']==0){
+                need++;
+            }
+            pf[p.charAt(i)-'a']++;
         }
 
-        if(Arrays.equals(pat, str)) ans.add(0);
+        while(end<s.length()){
+            char ch = s.charAt(end);
+            sf[ch-'a']++;
 
-        for(int i = 1; i <= n - k; i++){
-            str[s.charAt(i-1)-'a']--;
-            str[s.charAt(i+k-1)-'a']++;
-            if(Arrays.equals(pat, str)) ans.add(i);
+            if(sf[ch-'a']==pf[ch-'a']){
+                have++;
+            }
+
+            end++;
+
+            while(end-start > p.length()){
+                char lch = s.charAt(start);
+
+                if(sf[lch-'a']==pf[lch-'a']){
+                    have--;
+                }
+                sf[lch-'a']--;
+                start++;
+            }
+
+            if(end-start == p.length() && have==need){
+                ans.add(start);
+            }
         }
+
 
         return ans;
+
     }
 }
