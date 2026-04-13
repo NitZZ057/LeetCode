@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/NitZZ057/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/NitZZ057/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/NitZZ057/LeetCode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/NitZZ057/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/NitZZ057/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/NitZZ057/LeetCode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/NitZZ057/LeetCode/tree/master/0057-insert-interval) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/NitZZ057/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NitZZ057/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/NitZZ057/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/NitZZ057/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/NitZZ057/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/NitZZ057/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NitZZ057/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NitZZ057/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/NitZZ057/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/NitZZ057/LeetCode/tree/master/0198-house-robber) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/NitZZ057/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NitZZ057/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/NitZZ057/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2211-count-collisions-on-a-road](https://github.com/NitZZ057/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Rolling Hash
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NitZZ057/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/NitZZ057/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Queue
 |  |
