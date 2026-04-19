@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/NitZZ057/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/NitZZ057/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/NitZZ057/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/NitZZ057/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/NitZZ057/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/NitZZ057/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/NitZZ057/LeetCode/tree/master/0162-find-peak-element) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/NitZZ057/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/NitZZ057/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/NitZZ057/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/NitZZ057/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NitZZ057/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NitZZ057/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/NitZZ057/LeetCode/tree/master/0202-happy-number) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/NitZZ057/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/NitZZ057/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/NitZZ057/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/NitZZ057/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NitZZ057/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/NitZZ057/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/NitZZ057/LeetCode/tree/master/0349-intersection-of-two-arrays) |
