@@ -1,21 +1,19 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int n = nums.length;
-        int k = 0,i = 0;
-        int j = n -1;
+        int i = 0, k = 0, j = nums.length - 1;
+        int t  = 0;
 
         while(k<=j){
-            if(nums[k]==2){
-                int t = nums[k];
-                nums[k] = nums[j];
-                nums[j] = t;
-                j--;
-            }else if(nums[k]==0){
-                int t = nums[k];
+            if(i < k && nums[k]==0){
+                t = nums[k];
                 nums[k] = nums[i];
                 nums[i] = t;
-                i++;
-                k++;
+                i++; 
+            }else if(nums[k]==2){
+                t = nums[k];
+                nums[k] = nums[j];
+                nums[j] = t;
+                j--; 
             }else{
                 k++;
             }
