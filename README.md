@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NitZZ057/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/NitZZ057/LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/NitZZ057/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0844-backspace-string-compare](https://github.com/NitZZ057/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NitZZ057/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/NitZZ057/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Backtracking
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/NitZZ057/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0844-backspace-string-compare](https://github.com/NitZZ057/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/NitZZ057/LeetCode/tree/master/1642-water-bottles) |
 | [2211-count-collisions-on-a-road](https://github.com/NitZZ057/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NitZZ057/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/NitZZ057/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NitZZ057/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/NitZZ057/LeetCode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/NitZZ057/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NitZZ057/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2211-count-collisions-on-a-road](https://github.com/NitZZ057/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2429-design-a-food-rating-system](https://github.com/NitZZ057/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NitZZ057/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/NitZZ057/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/NitZZ057/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2211-count-collisions-on-a-road](https://github.com/NitZZ057/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Rolling Hash
 |  |
